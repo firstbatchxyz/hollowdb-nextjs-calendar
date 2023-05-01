@@ -1,0 +1,6 @@
+// The layout is a column flexbox, so that header and layout is consequent and footer is pushed to the bottom
+.layout {
+  flex-direction: column;
+  margin: auto;
+  // height: 100vh;
+}
