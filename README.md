@@ -5,7 +5,9 @@
 
 A permanent calendar application using whitelisted version of [HollowDB](https://github.com/firstbatchxyz/HollowDB), [Next.js](https://nextjs.org/) and [Fullcalendar](https://fullcalendar.io/) living on the [Arweave](https://www.arweave.org/) blockchain.
 
-Metamask and Arweave.app wallet are supported, users can deploy HollowDB contracts and create events using Fullcalendar while storing the events on the HollowDB contract with both wallets.
+Metamask and Arweave.app wallets are supported, users can deploy HollowDB contracts and create events using Fullcalendar while storing the events on the HollowDB contract with both wallets.
+
+Check out the [live demo](https://hollowdb-nextjs-calendar.vercel.app/).
 
 ## Configuration
 
